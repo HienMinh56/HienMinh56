@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://emoji.discadia.com/emojis/27d1ad6f-6cd3-44cc-baef-6c2f3c973d3d.gif" width="3%"/>, my name is Minh </br> but feel free to call me Fancy</h1>
+<h1 align="center">Hi there <img src="https://emoji.discadia.com/emojis/27d1ad6f-6cd3-44cc-baef-6c2f3c973d3d.gif" width="3%"/>, my name is Minh </br> but feel free to call me Fancy !!!</h1>
 
 
 <div align="center">
@@ -11,17 +11,17 @@
 
 <h2 align="left">💫 About Me:</h2>
 
-<img align="right" height="160" src="https://i.pinimg.com/originals/3c/72/54/3c72547f470bfa9b2044a33e430ca151.gif"  />
+<img align="right" height="180" src="https://i.pinimg.com/originals/ff/98/6c/ff986c4116c1551007ff0152e2a4d85e.gif" />
 
 <p align="left">- 🔭 I’m currently studying at FPT University <br>- 🌱 I’m currently learning: JS, Golang, and maybe a bit of Python<br>- 👯 I’m looking to collaborate on: There is currently no demand<br>- 🤔 I’m looking for help with: There is currently no demand<br>- 💬 Contact me about My Project, Copyright, or Job at <a href="https://hienminh56-contact.netlify.app">Contact Me</a><br>- 📫 How to reach me: Gmail, Discord, Facebook (I will respond within 24 hours, sorry if it bothers you to wait.)<br>- ⚡ Favorite quote: I close my eyes, then I drift away, into the magic night I softly say. A silent prayer, like dreamers do, then I fall asleep to dream my dreams of you. - Roy Orbison</p>
 
 <h2 align="left">🌐 Socials:</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=plat-quare&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zvFf8F94)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plat-quare&logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/DoanLeHienMinh/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=plat-quare&logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/Fancy_03/)
-[![X](https://img.shields.io/badge/X-black.svg?style=plat-quare&logo=X&logoColor=white)](https://x.com/https://twitter.com/oan_fancy)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plat-quare&logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@hiezmusic)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=plat-quare&logo=discord&logoColor=white)](https://discord.gg/zvFf8F94)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plat-quare&logo=Facebook&logoColor=white)](https://www.facebook.com/DoanLeHienMinh/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=plat-quare&logo=Pinterest&logoColor=white)](https://www.pinterest.com/Fancy_03/)
+[![X](https://img.shields.io/badge/X-black.svg?style=plat-quare&logo=X&logoColor=white)](https://twitter.com/oan_fancy)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plat-quare&logo=YouTube&logoColor=white)](https://www.youtube.com/@hiezmusic)
 
 <h2 align="left">💻 Tech Stack:</h2>
   
@@ -71,8 +71,14 @@
 
 <img src="https://raw.githubusercontent.com/HienMinh56/HienMinh56/output/snake.svg" alt="Snake animation" />
 
-<h2 align="left">💰 If my product makes you satisfied, You can thank me by Donating</h2>
+<h2 align="left">💰 If my product makes you satisfied, You can thank me by Donating:</h2>
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fancy56)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/hienminh56)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fancy56)
+
+<h2 align="left">👨‍💻 See if me online or not:</h2>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/344845849819348992)](https://discord.com/users/344845849819348992)
+
+<div align="center"><h4>Copyright © 2023 HienMinh56(Fancy)</h4></div>
