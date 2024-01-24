@@ -22,6 +22,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=plat-quare&logo=Pinterest&logoColor=white)](https://www.pinterest.com/Fancy_03/)
 [![X](https://img.shields.io/badge/X-black.svg?style=plat-quare&logo=X&logoColor=white)](https://twitter.com/oan_fancy)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plat-quare&logo=YouTube&logoColor=white)](https://www.youtube.com/@hiezmusic)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Fancy56)
 
 <h2 align="left">💻 Tech Stack:</h2>
   
