@@ -11,18 +11,18 @@
 
 <h2 align="left">💫 About Me:</h2>
 
-<img align="right" height="180" src="https://i.pinimg.com/originals/ff/98/6c/ff986c4116c1551007ff0152e2a4d85e.gif" />
+<img align="right" height="220" src="https://i.pinimg.com/originals/36/b3/5f/36b35f6b3a6ee8b154040504bed01a39.gif" />
 
-<p align="left">- 🔭 I’m currently studying at FPT University <br>- 🌱 I’m currently learning: JS, Golang, and maybe a bit of Python<br>- 👯 I’m looking to collaborate on: There is currently no demand<br>- 🤔 I’m looking for help with: There is currently no demand<br>- 💬 Contact me about My Project, Copyright, or Job at <a href="https://hienminh56-contact.netlify.app">Contact Me</a><br>- 📫 How to reach me: Gmail, Discord, Facebook (I will respond within 24 hours, sorry if it bothers you to wait.)<br>- ⚡ Favorite quote: I close my eyes, then I drift away, into the magic night I softly say. A silent prayer, like dreamers do, then I fall asleep to dream my dreams of you. - Roy Orbison</p>
+<p align="left">- 🔭 I’m currently studying at FPT University <br>- 🌱 I’m currently learning: ExpressJS, C#, MongoDB<br>- 👯 I’m looking to collaborate on: There is currently no demand<br>- 🤔 I’m looking for help with: There is currently no demand<br>- 💬 Contact me about My Project, Copyright, or Job at <a href="https://hienminh56-contact.netlify.app">Contact Me</a><br>- 📫 How to reach me: Gmail, Discord, Facebook (I will respond within 24 hours, sorry if it bothers you to wait.)<br>- ⚡ Favorite quote: I close my eyes, then I drift away, into the magic night I softly say. A silent prayer, like dreamers do, then I fall asleep to dream my dreams of you. - Roy Orbison</p>
 
 <h2 align="left">🌐 Socials:</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=plat-quare&logo=discord&logoColor=white)](https://discord.gg/zvFf8F94)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plat-quare&logo=Facebook&logoColor=white)](https://www.facebook.com/DoanLeHienMinh/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=plat-quare&logo=Pinterest&logoColor=white)](https://www.pinterest.com/Fancy_03/)
 [![X](https://img.shields.io/badge/X-black.svg?style=plat-quare&logo=X&logoColor=white)](https://twitter.com/oan_fancy)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plat-quare&logo=YouTube&logoColor=white)](https://www.youtube.com/@hiezmusic)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Fancy56)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=plat-quare&logo=Pinterest&logoColor=white)](https://www.pinterest.com/Fancy_03/)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=plat-quare&logo=codepen&logoColor=white)](https://codepen.io/Fancy56)
 
 <h2 align="left">💻 Tech Stack:</h2>
   
@@ -63,7 +63,7 @@
 <h2 align="left">📊 GitHub Stats:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HienMinh56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="195" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HienMinh56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="190" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HienMinh56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=radical&hide_border=false&order=2" height="190" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=HienMinh56&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=HienMinh56&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="200" alt="trophy graph" />
 </div>
