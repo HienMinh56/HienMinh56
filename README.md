@@ -19,6 +19,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=plat-quare&logo=discord&logoColor=white)](https://discord.gg/zvFf8F94)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plat-quare&logo=Facebook&logoColor=white)](https://www.facebook.com/DoanLeHienMinh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plat-quare&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hienminh56/)
 [![X](https://img.shields.io/badge/X-black.svg?style=plat-quare&logo=X&logoColor=white)](https://twitter.com/oan_fancy)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plat-quare&logo=YouTube&logoColor=white)](https://www.youtube.com/@hiezmusic)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=plat-quare&logo=Pinterest&logoColor=white)](https://www.pinterest.com/Fancy_03/)
