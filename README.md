@@ -92,4 +92,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/344845849819348992)](https://discord.com/users/344845849819348992)
 
-<div align="center"><h4>Copyright © 20242024 HienMinh56(Fancy)</h4></div>
+<div align="center"><h4>Copyright © 2024 HienMinh56(Fancy)</h4></div>
