@@ -13,7 +13,7 @@
 
 <img align="right" height="220" src="https://i.pinimg.com/originals/36/b3/5f/36b35f6b3a6ee8b154040504bed01a39.gif" />
 
-<p align="left">- 🔭 I’m currently studying at FPT University <br>- 🌱 I’m currently learning: ExpressJS, C#, MongoDB<br>- 👯 I’m looking to collaborate on: There is currently no demand<br>- 🤔 I’m looking for help with: There is currently no demand<br>- 💬 Contact me about My Project, Copyright, or Job at <a href="https://hienminh56-contact.netlify.app">Contact Me</a><br>- 📫 How to reach me: Gmail, Discord, Facebook (I will respond within 24 hours, sorry if it bothers you to wait.)<br>- ⚡ Favorite quote: I close my eyes, then I drift away, into the magic night I softly say. A silent prayer, like dreamers do, then I fall asleep to dream my dreams of you. - Roy Orbison</p>
+<p align="left">- 🔭 I’m currently studying at FPT University <br>- 🌱 I’m currently learning: <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=plastic">, <img align="center" src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white">, <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"><br>- 👯 I’m looking to collaborate on: There is currently no demand<br>- 🤔 I’m looking for help with: There is currently no demand<br>- 💬 Contact me about My Project, Copyright, or Job at <a href="https://hienminh56-contact.netlify.app"><img align="center" height="22" src="https://img.shields.io/badge/Contact-me-1abc9c.svg"></a><br>- 📫 How to reach me: Gmail, Discord, Facebook (I will respond within 24 hours, sorry if it bothers you to wait.)<br>- ⚡ Favorite quote: I close my eyes, then I drift away, into the magic night I softly say. A silent prayer, like dreamers do, then I fall asleep to dream my dreams of you. - Roy Orbison</p>
 
 <h2 align="left">🌐 Socials:</h2>
 
@@ -30,7 +30,7 @@
 - #### FrontEnd: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -52,7 +52,7 @@
 
 - #### Hosting and SaaS: 
 ![GithubPages](https://img.shields.io/badge/Github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
@@ -68,7 +68,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@dlhminh0506)
    
 <h2 align="left">📊 GitHub Stats:</h2>
 <div align="center">
@@ -91,5 +91,9 @@
 <h2 align="left">👨‍💻 See if me online or not:</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/344845849819348992)](https://discord.com/users/344845849819348992)
+
+<div align="right">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
+</div>
 
 <div align="center"><h4>Copyright © 2024 HienMinh56(Fancy)</h4></div>
