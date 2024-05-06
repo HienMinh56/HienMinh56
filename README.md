@@ -67,15 +67,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 [![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@dlhminh0506)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
    
 <h2 align="left">📊 GitHub Stats:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HienMinh56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="195" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HienMinh56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="190" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=HienMinh56&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=HienMinh56&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="200" alt="trophy graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HienMinh56&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="195" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HienMinh56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="195" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=HienMinh56&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=HienMinh56&theme=radical&column=-1&row=1&margin-w=4&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph" />
 </div>
 
 <h2 align="left">🐍 Snake eat my Contributions:</h2>
