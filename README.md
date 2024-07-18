@@ -9,13 +9,13 @@
   <img src="https://profile-counter.glitch.me/HienMinh56/count.svg?"  />
 </div>
 
-<h2 align="left">💫 About Me:</h2>
+<h2 align="left"><img src="https://media.tenor.com/fwObxqdMYhoAAAAi/imaginarystory-bongo-cat.gif" width="40px" height="35px"> About Me:</h2>
 
 <img align="right" height="220" src="https://i.pinimg.com/originals/36/b3/5f/36b35f6b3a6ee8b154040504bed01a39.gif" />
 
 <p align="left">- 🔭 I’m currently studying at FPT University <br>- 🌱 I’m currently learning: <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=plastic">, <img align="center" src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white">, <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"><br>- 👯 I’m looking to collaborate on: There is currently no demand<br>- 🤔 I’m looking for help with: There is currently no demand<br>- 💬 Contact me about My Project, Copyright, or Job at <a href="https://hienminh56-contact.netlify.app"><img align="center" height="22" src="https://img.shields.io/badge/Contact-me-1abc9c.svg"></a><br>- 📫 How to reach me: Gmail, Discord, Facebook (I will respond within 24 hours, sorry if it bothers you to wait.)<br>- ⚡ Favorite quote: I close my eyes, then I drift away, into the magic night I softly say. A silent prayer, like dreamers do, then I fall asleep to dream my dreams of you. - Roy Orbison</p>
 
-<h2 align="left">🌐 Socials:</h2>
+<h2 align="left"><img src="https://media1.giphy.com/media/chWLik9uddHFYRFEeu/giphy.gif?cid=6c09b952a4f1lh1b65y9pk2xrl9ksqgrty1nre3cf1vgwcng&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="40px" height="35px"> Socials:</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zvFf8F94)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/DoanLeHienMinh/)
@@ -25,7 +25,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/Fancy_03/)
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Fancy56)
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/techstack.gif" width="40px" height="35px"> Tech Stack:</h2>
   
 - #### FrontEnd: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -70,25 +70,25 @@
 [![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@dlhminh0506)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
    
-<h2 align="left">📊 GitHub Stats:</h2>
+<h2 align="left"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40px" height="35px"> GitHub Stats:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HienMinh56&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="195" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HienMinh56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false&order=2" height="195" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=HienMinh56&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=HienMinh56&theme=radical&column=-1&row=1&margin-w=4&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph" />
+  <img src="https://github-trophies.vercel.app/?username=HienMinh56&theme=radical&column=6&row=2&margin-w=4&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph" />
 </div>
 
-<h2 align="left">🐍 Snake eat my Contributions:</h2>
+<h2 align="left"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkxZXdnd21kc2ZzYXZqbmJwOGFnZ2FtcWdiYzNhZW9qNGMzZDJsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NLu0gwvgUMdxPtAHqS/giphy.webp" width="40px" height="35px"> Snake eat my Contributions:</h2>
 
 <img src="https://raw.githubusercontent.com/HienMinh56/HienMinh56/output/snake.svg" alt="Snake animation" />
 
-<h2 align="left">💰 If my product makes you satisfied, You can thank me by Donating:</h2>
+<h2 align="left"><img src="https://i.pinimg.com/originals/91/64/db/9164db18c9a71c4711176021d4b85bd7.gif" width="40px" height="35px"> If my product makes you satisfied, You can thank me by Donating:</h2>
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fancy56)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/hienminh56)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fancy56)
 
-<h2 align="left">👨‍💻 See if me online or not:</h2>
+<h2 align="left"><img src="https://media3.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif?cid=6c09b952q4rsu0vg6lywdr1bhhfuccwj3pwya833rnxko7oq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="40px" height="35px"> See if me online or not:</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/344845849819348992)](https://discord.com/users/344845849819348992)
 
