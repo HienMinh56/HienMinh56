@@ -89,7 +89,8 @@
 
 <h2 align="left"><img src="https://media3.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif?cid=6c09b952q4rsu0vg6lywdr1bhhfuccwj3pwya833rnxko7oq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="40px" height="35px"> See if me online or not:</h2>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/344845849819348992)](https://discord.com/users/344845849819348992)
+<img src="https://lanyard.kyrie25.me/api/344845849819348992?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" />
+<!--- [![Discord Presence](https://lanyard.cnrad.dev/api/344845849819348992)](https://discord.com/users/344845849819348992) --->
 
 <div align="right">
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
