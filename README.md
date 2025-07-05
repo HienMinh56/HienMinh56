@@ -11,7 +11,7 @@
 
 <h2 align="left"><img src="https://media.tenor.com/fwObxqdMYhoAAAAi/imaginarystory-bongo-cat.gif" width="40px" height="35px"> About Me:</h2>
 
-<img align="right" height="220" src="https://i.pinimg.com/originals/36/b3/5f/36b35f6b3a6ee8b154040504bed01a39.gif" />
+<img align="right" width="225px" height="220px" src="https://i.pinimg.com/originals/36/b3/5f/36b35f6b3a6ee8b154040504bed01a39.gif" />
 
 <p align="left">- 🔭 I’m currently studying at FPT University <br>- 🌱 I’m currently learning: There is currently no demand<!---<img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=plastic">, <img align="center" src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white">, <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white">---><br>- 👯 I’m looking to collaborate on: There is currently no demand<br>- 🤔 I’m looking for help with: There is currently no demand<br>- 💬 Contact me about My Project, Copyright, or Job at <a href="https://hienminh56-contact.netlify.app"><img align="center" height="22" src="https://img.shields.io/badge/Contact-me-1abc9c.svg"></a><br>- 📫 How to reach me: Gmail, Discord, Facebook (I will respond within 24 hours, sorry if it bothers you to wait.)<br>- ⚡ Favorite quote: I close my eyes, then I drift away, into the magic night I softly say. A silent prayer, like dreamers do, then I fall asleep to dream my dreams of you. - Roy Orbison</p>
 
