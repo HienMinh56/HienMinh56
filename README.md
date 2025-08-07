@@ -1,19 +1,19 @@
 <h1 align="center">𝑯𝒊 𝒕𝒉𝒆𝒓𝒆  <img src="https://emoji.discadia.com/emojis/27d1ad6f-6cd3-44cc-baef-6c2f3c973d3d.gif" width="3%"/>, 𝒎𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑴𝒊𝒏𝒉 </br> 𝒃𝒖𝒕 𝒇𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒄𝒂𝒍𝒍 𝒎𝒆 𝑭𝒂𝒏𝒄𝒚 !!!</h1>
 
 
-<div align="center">
+<!---<div align="center">
   <img height="160" src="https://img.itch.zone/aW1nLzExNTExMTguZ2lm/original/wRWQpp.gif"  />
-</div>
+</div>--->
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/HienMinh56/count.svg?"  />
+  <img src="https://count.getloli.com/@HienMinh56?name=HienMinh56&theme=rule34&padding=3&offset=0&align=top&scale=1.5&pixelated=1&darkmode=0&num=404"  />
 </div>
 
 <h2 align="left"><img src="https://media.tenor.com/fwObxqdMYhoAAAAi/imaginarystory-bongo-cat.gif" width="40px" height="35px"> About Me:</h2>
 
 <img align="right" width="225px" height="220px" src="https://i.pinimg.com/originals/36/b3/5f/36b35f6b3a6ee8b154040504bed01a39.gif" />
 
-<p align="left">- 🔭 I’m currently studying at FPT University <br>- 🌱 I’m currently learning: There is currently no demand<!---<img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=plastic">, <img align="center" src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white">, <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white">---><br>- 👯 I’m looking to collaborate on: There is currently no demand<br>- 🤔 I’m looking for help with: There is currently no demand<br>- 💬 Contact me about My Project, Copyright, or Job at <a href="https://hienminh56-contact.netlify.app"><img align="center" height="22" src="https://img.shields.io/badge/Contact-me-1abc9c.svg"></a><br>- 📫 How to reach me: Gmail, Discord, Facebook (I will respond within 24 hours, sorry if it bothers you to wait.)<br>- ⚡ Favorite quote: I close my eyes, then I drift away, into the magic night I softly say. A silent prayer, like dreamers do, then I fall asleep to dream my dreams of you. - Roy Orbison</p>
+<p align="left">- 🔭 I’m currently working at <a href="https://chill-vibes.vercel.app/">Chill Vibes</a> <br>- 🌱 I’m currently learning: NestJS, NextJS<!---<img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=plastic">, <img align="center" src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white">, <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white">---><br>- 👯 I’m looking to collaborate on: There is currently no demand<br>- 🤔 I’m looking for help with: There is currently no demand<br>- 💬 Contact me about My Project, Copyright, or Job at <a href="https://hienminh-portfolio.vercel.app/"><img align="center" height="22" src="https://img.shields.io/badge/Contact-me-1abc9c.svg"></a><br>- 📫 How to reach me: Gmail, Discord, Facebook (I will respond within 24 hours, sorry if it bothers you to wait.)<br>- ⚡ Favorite quote: I close my eyes, then I drift away, into the magic night I softly say. A silent prayer, like dreamers do, then I fall asleep to dream my dreams of you. - Roy Orbison</p>
 
 <h2 align="left"><img src="https://media1.giphy.com/media/chWLik9uddHFYRFEeu/giphy.gif?cid=6c09b952a4f1lh1b65y9pk2xrl9ksqgrty1nre3cf1vgwcng&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="40px" height="35px"> Socials:</h2>
 
