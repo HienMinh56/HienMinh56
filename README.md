@@ -86,13 +86,8 @@
 <h2 align="left"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkxZXdnd21kc2ZzYXZqbmJwOGFnZ2FtcWdiYzNhZW9qNGMzZDJsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NLu0gwvgUMdxPtAHqS/giphy.webp" width="40px" height="35px"> My Contributions:</h2>
 
 <!---<img src="https://raw.githubusercontent.com/HienMinh56/HienMinh56/output/snake.svg" alt="Snake animation" />--->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-dark.svg" />
-</picture>
+
+<img src="https://raw.githubusercontent.com/HienMinh56/HienMinh56/output/breakout-dark.svg" alt="Breakout Game" />
 
 <h2 align="left"><img src="https://i.pinimg.com/originals/91/64/db/9164db18c9a71c4711176021d4b85bd7.gif" width="40px" height="35px"> If my product makes you satisfied, You can thank me by Donating:</h2>
 
