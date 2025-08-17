@@ -38,11 +38,12 @@ name: generate breakout svg
 
 on:
   schedule:
+    # chạy mỗi 6 tiếng
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  generate-svg:
+  generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -52,24 +53,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate SVG
+      - name: Generate breakout SVG
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
 
-      - name: Move generated SVGs
+      - name: Rename and move SVGs
         run: |
-          mkdir -p images
-          mv output/light.svg images/breakout-light.svg
-          mv output/dark.svg images/breakout-dark.svg
+          mkdir -p dist
+          mv output/light.svg dist/breakout-light.svg
+          mv output/dark.svg dist/breakout-dark.svg
 
-      - name: Configure git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit and push SVGs
-        run: |
-          git add images/breakout-light.svg images/breakout-dark.svg
-          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
-          git push
+      - name: Push breakout SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
